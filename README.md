@@ -79,8 +79,21 @@
 
 ### Power and Cooling
 
+#### 80mm Fans
 * [Noctua NF-A8 PWM, Premium Quiet Fan, 4-Pin (80mm, Brown)](https://www.amazon.com/gp/product/B00NEMG62M/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)
+  * ![fan_80mm-1.jpg](./img/fan_80mm-1.jpg)
+  * ![fan_80mm-2.jpg](./img/fan_80mm-2.jpg)
+  * ![fan_80mm-3.jpg](./img/fan_80mm-3.jpg)
+  * ![fan_80mm-4.jpg](./img/fan_80mm-4.jpg)
+  * ![fan_80mm-5.jpg](./img/fan_80mm-5.jpg)
+  * ![fan_80mm-6.jpg](./img/fan_80mm-6.jpg)
+  * ![fan_80mm-7.jpg](./img/fan_80mm-7.jpg)
+  * ![fan_80mm-8.jpg](./img/fan_80mm-8.jpg)
+
+#### 120mm Fans
 * [Noctua NF-A12x25 PWM, Premium Quiet Fan, 4-Pin (120mm, Brown)](https://www.amazon.com/gp/product/B07C5VG64V/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+
+#### Power Supply
 * [Corsair HX1000i Fully Modular Ultra-Low Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Fluid Dynamic Bearing Fan - CORSAIR iCUE Software Compatible - 80 Plus Platinum Efficiency - Black](https://amazon.com/dp/B0BZ2CRW8H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
 ### Network
@@ -96,18 +109,18 @@
 
 ### Images
 ![49e4a288-15a1-4010-880b-77a14ce8fc41.jpg](./img/49e4a288-15a1-4010-880b-77a14ce8fc41.jpg)
-![IMG20241210105322.jpg](./img/IMG20241210105322.jpg)
-![IMG20241210105325.jpg](./img/IMG20241210105325.jpg)
-![IMG20241210105815.jpg](./img/IMG20241210105815.jpg)
+![fan_80mm-1.jpg](./img/fan_80mm-1.jpg)
+![fan_80mm-2.jpg](./img/fan_80mm-2.jpg)
+![fan_80mm-3.jpg](./img/fan_80mm-3.jpg)
 ![IMG20241206165847.jpg](./img/IMG20241206165847.jpg)
 ![IMG20241210110518.jpg](./img/IMG20241210110518.jpg)
-![IMG20241209141118.jpg](./img/IMG20241209141118.jpg)
-![IMG20241210111812.jpg](./img/IMG20241210111812.jpg)
-![IMG20241209173321.jpg](./img/IMG20241209173321.jpg)
-![IMG20241210111909.jpg](./img/IMG20241210111909.jpg)
+![fan_80mm-4.jpg](./img/fan_80mm-4.jpg)
+![fan_80mm-5.jpg](./img/fan_80mm-5.jpg)
+![fan_80mm-6.jpg](./img/fan_80mm-6.jpg)
+![fan_80mm-7.jpg](./img/fan_80mm-7.jpg)
 ![IMG20241209214321.jpg](./img/IMG20241209214321.jpg)
 ![IMG20241210092721.jpg](./img/IMG20241210092721.jpg)
-![IMG20241210111928.jpg](./img/IMG20241210111928.jpg)
+![fan_80mm-8.jpg](./img/fan_80mm-8.jpg)
 ![IMG20241210092722.jpg](./img/IMG20241210092722.jpg)
 ![IMG20241210111948.jpg](./img/IMG20241210111948.jpg)
 ![IMG20241210092724.jpg](./img/IMG20241210092724.jpg)
