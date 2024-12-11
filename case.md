@@ -2,7 +2,7 @@
 
 # Case 
 
-A case for the AsrockRack Ampere ALTRAD8UD-1L2T
+A case for the ASRock Rack Ampere ALTRAD8UD-1L2T
 
 ## Table of Contents
 * [PC Speaker](#pc-speaker)

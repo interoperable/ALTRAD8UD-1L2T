@@ -2,7 +2,7 @@
 
 # Parts
 
-A parts listFor the AsrockRack Ampere ALTRAD8UD-1L2T
+A parts listFor the ASRock Rack Ampere ALTRAD8UD-1L2T
 
 ## Table of Contents
 * [Purchased Parts List](#purchased-parts-list)
