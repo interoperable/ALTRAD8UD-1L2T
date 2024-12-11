@@ -23,7 +23,7 @@
 
 * [𝐃𝐢𝐋𝐢𝐧𝐤𝐞𝐫 𝐒𝐥𝐢𝐦𝐒𝐀𝐒 X8 to 8*𝐒𝐀𝐓𝐀,𝐒𝐅𝐅-𝟖𝟔𝟓𝟒 74P to 8*𝐒𝐀𝐓𝐀 7P, SlimSAS Host/RAID to SATA Target HD, 85CM Cable](https://www.amazon.com/dp/B09S3NKZNZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-* ![slimsas_sata_cable.jpg](./img/slimsas_sata_cable.jpg)
+* ![slimsas_sata_cable.png](./img/slimsas_sata_cable.png)
 
 
 #### SlimSAS to U2 NVME
@@ -33,8 +33,9 @@
 ### SATA HBA
 
 * [9500-16i 12Gb/s HBA TriMode SAS/NVMe](https://www.amazon.com/dp/B08926P9R4?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* ![sata_hba_only.png](./img/sata_hba_only.png)
 
-  * ![sata_hba-1.jpg](./img/sata_hba-1.jpg)
+#### Installation
   * ![sata_hba-3.jpg](./img/sata_hba-3.jpg)
   * ![sata_hba-4.jpg](./img/sata_hba-4.jpg)
   * ![sata_hba-5.jpg](./img/sata_hba-6.jpg)
