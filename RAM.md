@@ -4,8 +4,10 @@
 
 ## Table of Contents
   * [Parts Used](#parts-used)
-  * [RAM Placement](#ram)
-  * [Installation](#nstallation)
+  * [RAM Placement](#ram-placement)
+    * [Installation of Memory Modules](installation-of-memory-modules)
+    * [Recommended Memory Configurations](recommended-memory-configurations)
+  * [Installation](#installation)
 
 ## Parts Used
 
@@ -13,7 +15,12 @@
 
 ## RAM Placement
 
-![Installation of Memory Modules](./img/dimm-1.png)
+### Installation of Memory Modules
+
+![Installation of Memory Modules](./img/installation_of_memory_modules.png)
+
+### Recommended Memory Configurations
+![Recommended Memory Configurations](./img/recommended_memory_configurations.png)
 
 ## Installation
 
