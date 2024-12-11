@@ -76,7 +76,6 @@
 #### SATA HBA
 * [9500-16i 12Gb/s HBA TriMode SAS/NVMe](https://www.amazon.com/dp/B08926P9R4?ref=ppx_yo2ov_dt_b_fed_asin_title)
   * ![sata_hba-1.jpg](./img/sata_hba-1.jpg)
-  * ![sata_hba-2.jpg](./img/sata_hba-2.jpg)
   * ![sata_hba-3.jpg](./img/sata_hba-3.jpg)
   * ![sata_hba-4.jpg](./img/sata_hba-4.jpg)
   * ![sata_hba-5.jpg](./img/sata_hba-6.jpg)
