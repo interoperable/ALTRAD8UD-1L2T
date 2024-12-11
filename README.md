@@ -15,11 +15,32 @@
 
 ## Purchased Parts List
 
+### RAM
+
+* [Micron 64GB DDR4 3200 8Gx72 ECC CL22 RDIMM Server Memory Module - MTA36ASF8G72PZ-3G2B2](https://www.newegg.com/micron-64gb-288-pin-ddr4-sdram/p/1FR-009G-00004?item=9SIA7S6JP41456&utm_source=transactional&utm_medium=email&cm_mmc=TEMC-Delivery-Notice-USA-_-101932&utm_campaign=TEMC-Delivery-Notice-USA-_-101932)
+  * ![dimm-1.jpg](./img/dimm-1.jpg)
+  * ![dimm-2.jpg](./img/dimm-2.jpg)
+  * ![dimm-3.jpg](./img/dimm-3.jpg)
+  * ![dimm-4.jpg](./img/dimm-4.jpg)
+
 ### Storage
+
+#### NVME
 * [SAMSUNG 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard Drive, V-NAND Technology, Storage and Memory Expansion for Gaming, Graphics w/Heat Control, Max Speed, MZ-V7S1T0B/AM](https://www.amazon.com/gp/product/B07MFZY2F2/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)
+  * ![nvme-1.jpg](./img/nvme-1.jpg)
+  * ![nvme-2.jpg](./img/nvme-2.jpg)
+
 * [𝐃𝐢𝐋𝐢𝐧𝐤𝐞𝐫 𝐒𝐥𝐢𝐦𝐒𝐀𝐒 X8 to 8*𝐒𝐀𝐓𝐀,𝐒𝐅𝐅-𝟖𝟔𝟓𝟒 74P to 8*𝐒𝐀𝐓𝐀 7P, SlimSAS Host/RAID to SATA Target HD, 85CM Cable](https://www.amazon.com/dp/B09S3NKZNZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
-* [9500-16i 12Gb/s HBA TriMode SAS/NVMe](https://www.amazon.com/dp/B08926P9R4?ref=ppx_yo2ov_dt_b_fed_asin_title)
 * [𝐃𝐢𝐋𝐢𝐧𝐤𝐞𝐫 𝐒𝐥𝐢𝐦𝐒𝐀𝐒 8X to 2*𝐔.𝟐 𝐍𝐕𝐌𝐞 Adapter,𝐒𝐅𝐅-𝟖𝟔𝟓𝟒 74pin to 2*𝐒𝐅𝐅-𝟖𝟔𝟑𝟗 68pin Cable with Power, 75CM(Broadcom MPN 05-60005-00，CBL-SAST-0953)](https://www.amazon.com/dp/B098JBS7QD?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+#### SATA HBA
+* [9500-16i 12Gb/s HBA TriMode SAS/NVMe](https://www.amazon.com/dp/B08926P9R4?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+#### SATA Drives
+* [Western Digital WD4000FYYZ ENTERPRISE 4TB 7200RPM 64MB Cache SATA 6.0Gb/s 3.5 internal hard drive](https://www.amazon.com/Western-Digital-WD4000FYYZ-ENTERPRISE-internal/dp/B00CVT9UH2/ref=sr_1_3?crid=27PI74WQQZOCI&dib=eyJ2IjoiMSJ9.ogxAhN4wR1NH4UnfQJC84Xj1p62sw3-QWS49RqSMCMWYDnZYBB98c5kf-7p4nUg9CxtWxNuvko8tc17ekqBsh6db4SYKuwhwV1TtwDrFXQW1T5EiQK7GBkt0VXv3dzGcY-go_gIA2fEBMtXugrw8hkqksqCzJcYTtNW0M7Zm2BjpFVNHm0MpLp7BK6wskZaYqcee4icygOe97_XENR6v1I32Nx2Sbv2vxUch5MABV1Y.gn76R_ivLkIQ3L657GsVfVMEO3geysKosclT3NzgsAU&dib_tag=se&keywords=wd4000fyyz%2B4tb&qid=1733937411&sprefix=WD4000FYYZ%2Caps%2C140&sr=8-3&th=1)
+  * ![sata-1.jpg](./img/sata-1.jpg)
+  * ![sata-2.jpg](./img/sata-2.jpg)
+  * ![sata-3.jpg](./img/sata-3.jpg)
 
 #### Sata HotSwap Enclosure
 * [SilverStone Technology FS305-E Three 5.25" Device Bay to Five 3.5" SAS-12G / SATA 6Gbit/s Hot-swap Adapter Cage, SST-FS305-E](https://www.amazon.com/dp/B0BR8PSJ9V?ref=ppx_yo2ov_dt_b_fed_asin_title)
@@ -75,13 +96,7 @@
 
 ### Images
 ![49e4a288-15a1-4010-880b-77a14ce8fc41.jpg](./img/49e4a288-15a1-4010-880b-77a14ce8fc41.jpg)
-![IMG20241210104549.jpg](./img/IMG20241210104549.jpg)
-![IMG20241206100028.jpg](./img/IMG20241206100028.jpg)
-![IMG20241206102949.jpg](./img/IMG20241206102949.jpg)
-![IMG20241210093350.jpg](./img/IMG20241210093350.jpg)
 ![IMG20241210105322.jpg](./img/IMG20241210105322.jpg)
-![IMG20241206103001.jpg](./img/IMG20241206103001.jpg)
-![IMG20241210093520.jpg](./img/IMG20241210093520.jpg)
 ![IMG20241210105325.jpg](./img/IMG20241210105325.jpg)
 ![IMG20241210105815.jpg](./img/IMG20241210105815.jpg)
 ![IMG20241206165847.jpg](./img/IMG20241206165847.jpg)
@@ -95,9 +110,7 @@
 ![IMG20241210111928.jpg](./img/IMG20241210111928.jpg)
 ![IMG20241210092722.jpg](./img/IMG20241210092722.jpg)
 ![IMG20241210111948.jpg](./img/IMG20241210111948.jpg)
-![IMG20241210090346.jpg](./img/IMG20241210090346.jpg)
 ![IMG20241210092724.jpg](./img/IMG20241210092724.jpg)
-![IMG20241210112015.jpg](./img/IMG20241210112015.jpg)
 ![IMG20241210092834.jpg](./img/IMG20241210092834.jpg)
 ![IMG20241210101415.jpg](./img/IMG20241210101415.jpg)
 ![IMG20241210092839.jpg](./img/IMG20241210092839.jpg)
