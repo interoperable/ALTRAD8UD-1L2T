@@ -28,9 +28,9 @@ A case for the AsrockRack Ampere ALTRAD8UD-1L2T
 ## USB Ports
 
 * [RIITOP 2 Ports USB 3.0 Female Back Panel to MB 20pin Header Connector Cable Adapter with PCI Slot Plate Bracket 1.5ft](https://www.amazon.com/gp/product/B01KJPUI5W/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1)
+  * ![usb-3.jpg](./img/usb-3.jpg)
   * ![usb-1.jpg](./img/usb-1.jpg)
   * ![usb-2.jpg](./img/usb-2.jpg)
-  * ![usb-3.jpg](./img/usb-3.jpg)
 
 ## RS232 Port
 
