@@ -4,8 +4,6 @@
 
 A case for the AsrockRack Ampere ALTRAD8UD-1L2T
 
-![recycled_case.jpg](./img/recycled_case.jpg)
-
 ## Table of Contents
 * [PC Speaker](#pc-speaker)
 * [USB Ports](#usb-ports)
