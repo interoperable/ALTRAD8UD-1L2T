@@ -33,7 +33,6 @@ One of the six drives got installed into the side of the three 5.25 drive bay.
 ### Installation
 
 * ![sata-1.jpg](./img/sata-1.jpg)
-* ![sata-3.jpg](./img/sata-3.jpg)
 * ![sata_hotswap-1.jpg](./img/sata_hotswap-1.jpg)
 * ![sata_hotswap-4.jpg](./img/sata_hotswap-4.jpg)
 * ![sata_hotswap-5.jpg](./img/sata_hotswap-5.jpg)
