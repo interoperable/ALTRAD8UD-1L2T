@@ -8,11 +8,12 @@
   * [RAM](#ram)
   * [Storage](#storage)
     * [NVME](#nvme)
+    * [Storage Cables](#storage-cables)
     * [Sata HBA](#sata-hba)
     * [Sata Drives](#sata-drives)
     * [Sata Hotswap Enclosure](#sata-hotswap-enclosure)
-  * [MISC](#misc)
-    * [PC Speaker](#pc-speaker)
+  * [PC Speaker](#pc-speaker)
+  * [Case Ports](#case-ports
     * [USB Ports](#usb-ports)
     * [RS323 Ports](#rs232-port)
   * [Power and Cooling](#power-and-cooling)
@@ -37,6 +38,21 @@
 
 ## Purchased Parts List
 
+|component|part|url|
+| --- | --- | --- |
+| RAM | | | 
+| NVME | | |
+| SATA HBA | | | 
+| SATA Disk | | | 
+| SATA Enclosure | | | 
+| PC Speaker | | | 
+| RS232 Port | | | 
+| USB3 Ports | | | 
+| 80MM Fan | | | 
+| 120MM Fan | | | 
+| Network Card | | | 
+| GPU | | | 
+
 ### RAM
 
 * [Micron 64GB DDR4 3200 8Gx72 ECC CL22 RDIMM Server Memory Module - MTA36ASF8G72PZ-3G2B2](https://www.newegg.com/micron-64gb-288-pin-ddr4-sdram/p/1FR-009G-00004?item=9SIA7S6JP41456&utm_source=transactional&utm_medium=email&cm_mmc=TEMC-Delivery-Notice-USA-_-101932&utm_campaign=TEMC-Delivery-Notice-USA-_-101932)
@@ -51,6 +67,8 @@
 * [SAMSUNG 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard Drive, V-NAND Technology, Storage and Memory Expansion for Gaming, Graphics w/Heat Control, Max Speed, MZ-V7S1T0B/AM](https://www.amazon.com/gp/product/B07MFZY2F2/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)
   * ![nvme-1.jpg](./img/nvme-1.jpg)
   * ![nvme-2.jpg](./img/nvme-2.jpg)
+
+#### Storage Cables
 
 * [𝐃𝐢𝐋𝐢𝐧𝐤𝐞𝐫 𝐒𝐥𝐢𝐦𝐒𝐀𝐒 X8 to 8*𝐒𝐀𝐓𝐀,𝐒𝐅𝐅-𝟖𝟔𝟓𝟒 74P to 8*𝐒𝐀𝐓𝐀 7P, SlimSAS Host/RAID to SATA Target HD, 85CM Cable](https://www.amazon.com/dp/B09S3NKZNZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
 * [𝐃𝐢𝐋𝐢𝐧𝐤𝐞𝐫 𝐒𝐥𝐢𝐦𝐒𝐀𝐒 8X to 2*𝐔.𝟐 𝐍𝐕𝐌𝐞 Adapter,𝐒𝐅𝐅-𝟖𝟔𝟓𝟒 74pin to 2*𝐒𝐅𝐅-𝟖𝟔𝟑𝟗 68pin Cable with Power, 75CM(Broadcom MPN 05-60005-00，CBL-SAST-0953)](https://www.amazon.com/dp/B098JBS7QD?ref=ppx_yo2ov_dt_b_fed_asin_title)
