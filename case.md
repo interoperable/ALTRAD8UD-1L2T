@@ -21,9 +21,9 @@ A case for the AsrockRack Ampere ALTRAD8UD-1L2T
 ## PC Speaker
 
 * [2-Pack PC Motherboard Internal Speaker Mini Plug Speaker Desktop Computer Case DIY Internal BIOS Beep Alarm Buzzer](https://www.amazon.com/gp/product/B0BKG3YB3X/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+  * ![speaker-3.jpg](./img/speaker-3.jpg)
   * ![speaker-1.jpg](./img/speaker-1.jpg)
   * ![speaker-2.jpg](./img/speaker-2.jpg)
-  * ![speaker-3.jpg](./img/speaker-3.jpg)
 
 ## USB Ports
 
