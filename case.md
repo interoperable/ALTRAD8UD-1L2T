@@ -63,10 +63,23 @@ A case for the AsrockRack Ampere ALTRAD8UD-1L2T
 
 ### Backplate
 
+I realized after starting to plug things in that the network ports were still covered. Rather than pulling everything apart I just moved it back and forth until they both came off.
+
 * ![backpannel_network_tabs.png](./img/backpannel_network_tabs.png)
 
 ### 5.25 Drive Bay 
 
-* ![sata_hotswap-4.jpg](./img/sata_hotswap-4.jpg)
-* ![sata_hotswap-5.jpg](./img/sata_hotswap-5.jpg)
-* ![sata_hotswap-6.jpg](./img/sata_hotswap-6.jpg)
+It was necessary to modify the 5.25in drive bay to get the SATA hotswap drive unit to fit.   If you look closely at the picture below, you will notice there are tabs protruding out the inside of the cage.  
+
+![sata_hotswap-4.jpg](./img/sata_hotswap-4.jpg)
+
+The tabs were originall intended to support disks or optical drives that were only a single unit.   The 5 drive enclosure I purchased is 3 5.25 drive units tall and allows for 5x 3.5 sata drives to be mounted.
+I used a Dremel to grind down the tabs to allow for easy mounting.  Below are pictures of the finished grinding work.
+
+Dremel work on the right side.
+
+![sata_hotswap-5.jpg](./img/sata_hotswap-5.jpg)
+
+... and the left side of the 5.25 drive cage.
+
+![sata_hotswap-6.jpg](./img/sata_hotswap-6.jpg)
