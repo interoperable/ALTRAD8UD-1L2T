@@ -117,8 +117,5 @@
 
 #### Case
 
-![recycled_case.jpg](./img/recycled_case.jpg)
-
-### Images
-
-![IMG20241210110518.jpg](./img/IMG20241210110518.jpg)
+* ![recycled_case.jpg](./img/recycled_case.jpg)
+* ![backpannel_network_tabs.jpg](./img/backpannel_network_tabs.jpg)
