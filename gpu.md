@@ -10,6 +10,6 @@
 
 * [PNY TECHNOLOGIES NVIDIA RTX A4000](https://www.amazon.com/dp/B09G21MBW2?ref=ppx_yo2ov_dt_b_fed_asin_title)
   * ![gpu-1.jpg](./img/gpu-1.jpg)
-  * ![gpu-2.jpg](./img/gpu-2.jpg)
+<!--  * ![gpu-2.jpg](./img/gpu-2.jpg) -->
   * ![gpu-3.jpg](./img/gpu-3.jpg)
   * ![gpu-4.jpg](./img/gpu-4.jpg)
