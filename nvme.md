@@ -4,7 +4,7 @@
 
 ## Table of Contents
 * [NVME](#nvme)
-  * [Install Parts](#installed-parts)
+  * [Parts](#parts)
   * [Installation](#installation)
 
 ## Storage
