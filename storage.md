@@ -23,7 +23,7 @@
 
 * [𝐃𝐢𝐋𝐢𝐧𝐤𝐞𝐫 𝐒𝐥𝐢𝐦𝐒𝐀𝐒 X8 to 8*𝐒𝐀𝐓𝐀,𝐒𝐅𝐅-𝟖𝟔𝟓𝟒 74P to 8*𝐒𝐀𝐓𝐀 7P, SlimSAS Host/RAID to SATA Target HD, 85CM Cable](https://www.amazon.com/dp/B09S3NKZNZ?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
-![slimsas_sata_cable.jpg](./img/slimsas_sata_cable.png)
+* ![slimsas_sata_cable.jpg](./img/slimsas_sata_cable.jpg)
 
 
 #### SlimSAS to U2 NVME
