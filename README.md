@@ -118,4 +118,4 @@
 #### Case
 
 * ![recycled_case.jpg](./img/recycled_case.jpg)
-* ![backpannel_network_tabs.jpg](./img/backpannel_network_tabs.jpg)
+* ![backpannel_network_tabs.png](./img/backpannel_network_tabs.png)
