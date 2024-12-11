@@ -65,6 +65,14 @@
 ### Network
 ![MCX4121A-XCAT Mellanox ConnectX-4 Lx 25Gbe PCIe 3.0 SFP28 Dual-Port Network Card](https://www.newegg.com/p/14U-005H-001A1)
 
+### GPU
+
+* [PNY TECHNOLOGIES NVIDIA RTX A4000](https://www.amazon.com/dp/B09G21MBW2?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  * ![gpu-1.jpg](./img/gpu-1.jpg)
+  * ![gpu-2.jpg](./img/gpu-2.jpg)
+  * ![gpu-3.jpg](./img/gpu-3.jpg)
+  * ![gpu-4.jpg](./img/gpu-4.jpg)
+
 ### Images
 ![49e4a288-15a1-4010-880b-77a14ce8fc41.jpg](./img/49e4a288-15a1-4010-880b-77a14ce8fc41.jpg)
 ![IMG20241210104549.jpg](./img/IMG20241210104549.jpg)
@@ -75,16 +83,16 @@
 ![IMG20241206103001.jpg](./img/IMG20241206103001.jpg)
 ![IMG20241210093520.jpg](./img/IMG20241210093520.jpg)
 ![IMG20241210105325.jpg](./img/IMG20241210105325.jpg)
-![IMG20241206142429.jpg](./img/IMG20241206142429.jpg)
+![gpu-1.jpg](./img/gpu-1.jpg)
 ![IMG20241210105815.jpg](./img/IMG20241210105815.jpg)
 ![IMG20241206165847.jpg](./img/IMG20241206165847.jpg)
-![IMG20241210091438.jpg](./img/IMG20241210091438.jpg)
+![gpu-2.jpg](./img/gpu-2.jpg)
 ![IMG20241210110518.jpg](./img/IMG20241210110518.jpg)
 ![IMG20241209141118.jpg](./img/IMG20241209141118.jpg)
-![IMG20241210091440.jpg](./img/IMG20241210091440.jpg)
+![gpu-3.jpg](./img/gpu-3.jpg)
 ![IMG20241210111812.jpg](./img/IMG20241210111812.jpg)
 ![IMG20241209173321.jpg](./img/IMG20241209173321.jpg)
-![IMG20241210091449.jpg](./img/IMG20241210091449.jpg)
+![gpu-4.jpg](./img/gpu-4.jpg)
 ![IMG20241210111909.jpg](./img/IMG20241210111909.jpg)
 ![IMG20241209214321.jpg](./img/IMG20241209214321.jpg)
 ![IMG20241210092721.jpg](./img/IMG20241210092721.jpg)
