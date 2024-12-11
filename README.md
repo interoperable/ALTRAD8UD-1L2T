@@ -35,6 +35,14 @@
 
 #### SATA HBA
 * [9500-16i 12Gb/s HBA TriMode SAS/NVMe](https://www.amazon.com/dp/B08926P9R4?ref=ppx_yo2ov_dt_b_fed_asin_title)
+  * ![sata_hba-1.jpg](./img/sata_hba-1.jpg)
+  * ![sata_hba-2.jpg](./img/sata_hba-2.jpg)
+  * ![sata_hba-3.jpg](./img/sata_hba-3.jpg)
+  * ![sata_hba-4.jpg](./img/sata_hba-4.jpg)
+  * ![sata_hba-5.jpg](./img/sata_hba-6.jpg)
+  * ![sata_hba-6.jpg](./img/sata_hba-6.jpg)
+  * ![sata_hba-7.jpg](./img/sata_hba-7.jpg)
+  * ![sata_hba-8.jpg](./img/sata_hba-8.jpg)
 
 #### SATA Drives
 * [Western Digital WD4000FYYZ ENTERPRISE 4TB 7200RPM 64MB Cache SATA 6.0Gb/s 3.5 internal hard drive](https://www.amazon.com/Western-Digital-WD4000FYYZ-ENTERPRISE-internal/dp/B00CVT9UH2/ref=sr_1_3?crid=27PI74WQQZOCI&dib=eyJ2IjoiMSJ9.ogxAhN4wR1NH4UnfQJC84Xj1p62sw3-QWS49RqSMCMWYDnZYBB98c5kf-7p4nUg9CxtWxNuvko8tc17ekqBsh6db4SYKuwhwV1TtwDrFXQW1T5EiQK7GBkt0VXv3dzGcY-go_gIA2fEBMtXugrw8hkqksqCzJcYTtNW0M7Zm2BjpFVNHm0MpLp7BK6wskZaYqcee4icygOe97_XENR6v1I32Nx2Sbv2vxUch5MABV1Y.gn76R_ivLkIQ3L657GsVfVMEO3geysKosclT3NzgsAU&dib_tag=se&keywords=wd4000fyyz%2B4tb&qid=1733937411&sprefix=WD4000FYYZ%2Caps%2C140&sr=8-3&th=1)
@@ -111,12 +119,3 @@
 ![49e4a288-15a1-4010-880b-77a14ce8fc41.jpg](./img/49e4a288-15a1-4010-880b-77a14ce8fc41.jpg)
 ![IMG20241206165847.jpg](./img/IMG20241206165847.jpg)
 ![IMG20241210110518.jpg](./img/IMG20241210110518.jpg)
-![IMG20241209214321.jpg](./img/IMG20241209214321.jpg)
-![IMG20241210092721.jpg](./img/IMG20241210092721.jpg)
-![IMG20241210092722.jpg](./img/IMG20241210092722.jpg)
-![IMG20241210111948.jpg](./img/IMG20241210111948.jpg)
-![IMG20241210092724.jpg](./img/IMG20241210092724.jpg)
-![IMG20241210092834.jpg](./img/IMG20241210092834.jpg)
-![IMG20241210101415.jpg](./img/IMG20241210101415.jpg)
-![IMG20241210092839.jpg](./img/IMG20241210092839.jpg)
-![IMG20241210101420.jpg](./img/IMG20241210101420.jpg)
