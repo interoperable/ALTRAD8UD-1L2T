@@ -1,26 +1,31 @@
 ![Ampere Computing](https://avatars2.githubusercontent.com/u/34519842?s=400&u=1d29afaac44f477cbb0226139ec83f73faefe154&v=4)
 
-# AsrockRack Ampere ALTRAD8UD-1L2T
+# Case 
+
+A case for the AsrockRack Ampere ALTRAD8UD-1L2T
+
+![recycled_case.jpg](./img/recycled_case.jpg)
 
 ## Table of Contents
 * [PC Speaker](#pc-speaker)
-* [Case Ports](#case-ports
-  * [USB Ports](#usb-ports)
-  * [RS323 Ports](#rs232-port)
+* [USB Ports](#usb-ports)
+* [RS323 Ports](#rs232-port)
 * [Power and Cooling](#power-and-cooling)
   * [80mm Fans](#80mm-fans)
   * [120mm Fans](#120mm-fans)
   * [Power Supply](#power-supply)
-* [case](#case)
+* [Modifications](#modifications)
+  * [Backplate](#backplate)
+  * [5.25 Drive Bay](#5.25-drive-bay)
 
-### PC Speaker
+## PC Speaker
 
 * [2-Pack PC Motherboard Internal Speaker Mini Plug Speaker Desktop Computer Case DIY Internal BIOS Beep Alarm Buzzer](https://www.amazon.com/gp/product/B0BKG3YB3X/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
   * ![speaker-1.jpg](./img/speaker-1.jpg)
   * ![speaker-2.jpg](./img/speaker-2.jpg)
   * ![speaker-3.jpg](./img/speaker-3.jpg)
 
-### USB Ports
+## USB Ports
 
 * [RIITOP 2 Ports USB 3.0 Female Back Panel to MB 20pin Header Connector Cable Adapter with PCI Slot Plate Bracket 1.5ft](https://www.amazon.com/gp/product/B01KJPUI5W/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1)
   * ![usb-1.jpg](./img/usb-1.jpg)
@@ -54,13 +59,13 @@
 ### Power Supply
 * [Corsair HX1000i Fully Modular Ultra-Low Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Fluid Dynamic Bearing Fan - CORSAIR iCUE Software Compatible - 80 Plus Platinum Efficiency - Black](https://amazon.com/dp/B0BZ2CRW8H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
+## Modifications
 
-### Case
+### Backplate
 
-* ![recycled_case.jpg](./img/recycled_case.jpg)
 * ![backpannel_network_tabs.png](./img/backpannel_network_tabs.png)
 
-# Installation 
+### 5.25 Drive Bay 
 
 * ![sata_hotswap-4.jpg](./img/sata_hotswap-4.jpg)
 * ![sata_hotswap-5.jpg](./img/sata_hotswap-5.jpg)
