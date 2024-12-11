@@ -8,7 +8,7 @@
   * [RAM](RAM.md)
   * [Storage](storage.md)
     * [NVME](nvme.md)
-    * [Storage Cables](#storage-cables)
+    * [Storage Cables](storage.md#storage-cables)
     * [Sata HBA](#sata-hba)
     * [Sata Drives](#sata-drives)
     * [Sata Hotswap Enclosure](#sata-hotswap-enclosure)
