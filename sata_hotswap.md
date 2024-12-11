@@ -17,18 +17,24 @@
 
 ![sata-2.jpg](./img/sata-2.jpg)
 
+### Installation
+
+One of the six drives got installed into the side of the three 5.25 drive bay.
+
+![sata-3.jpg](./img/sata-3.jpg)
+
 
 ## Sata HotSwap Enclosure
 ### Parts
 * [SilverStone Technology FS305-E Three 5.25" Device Bay to Five 3.5" SAS-12G / SATA 6Gbit/s Hot-swap Adapter Cage, SST-FS305-E](https://www.amazon.com/dp/B0BR8PSJ9V?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* ![sata_hotswap-2.jpg](./img/sata_hotswap-2.jpg)
+* ![sata_hotswap-3.jpg](./img/sata_hotswap-3.jpg)
 
 ### Installation
 
 * ![sata-1.jpg](./img/sata-1.jpg)
 * ![sata-3.jpg](./img/sata-3.jpg)
 * ![sata_hotswap-1.jpg](./img/sata_hotswap-1.jpg)
-* ![sata_hotswap-2.jpg](./img/sata_hotswap-2.jpg)
-* ![sata_hotswap-3.jpg](./img/sata_hotswap-3.jpg)
 * ![sata_hotswap-4.jpg](./img/sata_hotswap-4.jpg)
 * ![sata_hotswap-5.jpg](./img/sata_hotswap-5.jpg)
 * ![sata_hotswap-6.jpg](./img/sata_hotswap-6.jpg)
