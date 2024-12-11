@@ -104,10 +104,10 @@
 #### Power Supply
 * [Corsair HX1000i Fully Modular Ultra-Low Noise ATX Power Supply - ATX 3.0 & PCIe 5.0 Compliant - Fluid Dynamic Bearing Fan - CORSAIR iCUE Software Compatible - 80 Plus Platinum Efficiency - Black](https://amazon.com/dp/B0BZ2CRW8H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 
-### Network
+#### Network
 ![MCX4121A-XCAT Mellanox ConnectX-4 Lx 25Gbe PCIe 3.0 SFP28 Dual-Port Network Card](https://www.newegg.com/p/14U-005H-001A1)
 
-### GPU
+#### GPU
 
 * [PNY TECHNOLOGIES NVIDIA RTX A4000](https://www.amazon.com/dp/B09G21MBW2?ref=ppx_yo2ov_dt_b_fed_asin_title)
   * ![gpu-1.jpg](./img/gpu-1.jpg)
@@ -115,7 +115,10 @@
   * ![gpu-3.jpg](./img/gpu-3.jpg)
   * ![gpu-4.jpg](./img/gpu-4.jpg)
 
+#### Case
+
+![recycled_case.jpg](./img/recycled_case.jpg)
+
 ### Images
-![49e4a288-15a1-4010-880b-77a14ce8fc41.jpg](./img/49e4a288-15a1-4010-880b-77a14ce8fc41.jpg)
-![IMG20241206165847.jpg](./img/IMG20241206165847.jpg)
+
 ![IMG20241210110518.jpg](./img/IMG20241210110518.jpg)
