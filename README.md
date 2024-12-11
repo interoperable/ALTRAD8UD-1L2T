@@ -158,3 +158,9 @@
 
 * ![recycled_case.jpg](./img/recycled_case.jpg)
 * ![backpannel_network_tabs.png](./img/backpannel_network_tabs.png)
+
+# Installation 
+
+* ![sata_hotswap-4.jpg](./img/sata_hotswap-4.jpg)
+* ![sata_hotswap-5.jpg](./img/sata_hotswap-5.jpg)
+* ![sata_hotswap-6.jpg](./img/sata_hotswap-6.jpg)
