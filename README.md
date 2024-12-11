@@ -41,7 +41,12 @@
   * ![speaker-2.jpg](./img/speaker-2.jpg)
   * ![speaker-3.jpg](./img/speaker-3.jpg)
 
+#### USB Ports
+
 * [RIITOP 2 Ports USB 3.0 Female Back Panel to MB 20pin Header Connector Cable Adapter with PCI Slot Plate Bracket 1.5ft](https://www.amazon.com/gp/product/B01KJPUI5W/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&th=1)
+  * ![usb-1.jpg](./img/usb-1.jpg)
+  * ![usb-2.jpg](./img/usb-2.jpg)
+  * ![usb-3.jpg](./img/usb-3.jpg)
 
 #### RS232 Port
 
@@ -68,11 +73,9 @@
 ![IMG20241210093350.jpg](./img/IMG20241210093350.jpg)
 ![IMG20241210105322.jpg](./img/IMG20241210105322.jpg)
 ![IMG20241206103001.jpg](./img/IMG20241206103001.jpg)
-![IMG20241210091001.jpg](./img/IMG20241210091001.jpg)
 ![IMG20241210093520.jpg](./img/IMG20241210093520.jpg)
 ![IMG20241210105325.jpg](./img/IMG20241210105325.jpg)
 ![IMG20241206142429.jpg](./img/IMG20241206142429.jpg)
-![IMG20241210091008.jpg](./img/IMG20241210091008.jpg)
 ![IMG20241210105815.jpg](./img/IMG20241210105815.jpg)
 ![IMG20241206165847.jpg](./img/IMG20241206165847.jpg)
 ![IMG20241210091438.jpg](./img/IMG20241210091438.jpg)
@@ -86,7 +89,6 @@
 ![IMG20241209214321.jpg](./img/IMG20241209214321.jpg)
 ![IMG20241210092721.jpg](./img/IMG20241210092721.jpg)
 ![IMG20241210111928.jpg](./img/IMG20241210111928.jpg)
-![IMG20241210090331.jpg](./img/IMG20241210090331.jpg)
 ![IMG20241210092722.jpg](./img/IMG20241210092722.jpg)
 ![IMG20241210111948.jpg](./img/IMG20241210111948.jpg)
 ![IMG20241210090346.jpg](./img/IMG20241210090346.jpg)
