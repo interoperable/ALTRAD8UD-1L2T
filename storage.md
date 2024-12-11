@@ -36,7 +36,6 @@
 
 #### Installation
   * ![sata_hba-3.jpg](./img/sata_hba-3.jpg)
-  * ![sata_hba-4.jpg](./img/sata_hba-4.jpg)
   * ![sata_hba-5.jpg](./img/sata_hba-6.jpg)
   * ![sata_hba-6.jpg](./img/sata_hba-6.jpg)
   * ![sata_hba-7.jpg](./img/sata_hba-7.jpg)
