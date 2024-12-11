@@ -36,7 +36,7 @@ A case for the AsrockRack Ampere ALTRAD8UD-1L2T
 
 * [axGear Motherboard DB9 RS232 Com Port Serial Header Connector Cable Bracket](https://www.amazon.com/dp/B072BBM6VP?ref=ppx_yo2ov_dt_b_fed_asin_title)
   * ![serial_port-1.jpg](./img/serial_port-1.jpg)
-  * ![serial_port-2.jpg](./img/serial_port-2.jpg)
+<!--  * ![serial_port-2.jpg](./img/serial_port-2.jpg) -->
   * ![serial_port-3.jpg](./img/serial_port-3.jpg)
   * ![serial_port-4.jpg](./img/serial_port-4.jpg)
 
