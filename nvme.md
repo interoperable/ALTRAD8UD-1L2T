@@ -4,14 +4,16 @@
 
 ## Table of Contents
 * [NVME](#nvme)
-  * [Storage Cables](#storage-cables)
-  * [Sata HBA](#sata-hba)
-  * [Sata Drives](#sata-drives)
-  * [Sata Hotswap Enclosure](#sata-hotswap-enclosure)
+  * [Install Parts](#installed-parts)
+  * [Installation](#installation)
 
 ## Storage
 
-### NVME
+### Parts
 * [SAMSUNG 970 EVO Plus SSD 1TB NVMe M.2 Internal Solid State Hard Drive, V-NAND Technology, Storage and Memory Expansion for Gaming, Graphics w/Heat Control, Max Speed, MZ-V7S1T0B/AM](https://www.amazon.com/gp/product/B07MFZY2F2/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1)
-  * ![nvme-1.jpg](./img/nvme-1.jpg)
-  * ![nvme-2.jpg](./img/nvme-2.jpg)
+
+* ![nvme-1.jpg](./img/nvme-1.jpg)
+
+## Installation
+
+* ![nvme-2.jpg](./img/nvme-2.jpg)
