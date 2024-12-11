@@ -44,14 +44,14 @@ A case for the AsrockRack Ampere ALTRAD8UD-1L2T
 
 ### 80mm Fans
 * [Noctua NF-A8 PWM, Premium Quiet Fan, 4-Pin (80mm, Brown)](https://www.amazon.com/gp/product/B00NEMG62M/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&th=1)
-  * ![fan_80mm-1.jpg](./img/fan_80mm-1.jpg)
+  * ![fan_80mm-4.jpg](./img/fan_80mm-4.jpg)
+  <!-- * ![fan_80mm-6.jpg](./img/fan_80mm-6.jpg) -->
+  <!-- * ![fan_80mm-1.jpg](./img/fan_80mm-1.jpg) -->
   * ![fan_80mm-2.jpg](./img/fan_80mm-2.jpg)
   * ![fan_80mm-3.jpg](./img/fan_80mm-3.jpg)
-  * ![fan_80mm-4.jpg](./img/fan_80mm-4.jpg)
-  * ![fan_80mm-5.jpg](./img/fan_80mm-5.jpg)
-  * ![fan_80mm-6.jpg](./img/fan_80mm-6.jpg)
   * ![fan_80mm-7.jpg](./img/fan_80mm-7.jpg)
   * ![fan_80mm-8.jpg](./img/fan_80mm-8.jpg)
+  * ![fan_80mm-5.jpg](./img/fan_80mm-5.jpg)
 
 ### 120mm Fans
 * [Noctua NF-A12x25 PWM, Premium Quiet Fan, 4-Pin (120mm, Brown)](https://www.amazon.com/gp/product/B07C5VG64V/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
