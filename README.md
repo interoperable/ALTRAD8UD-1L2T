@@ -109,18 +109,10 @@
 
 ### Images
 ![49e4a288-15a1-4010-880b-77a14ce8fc41.jpg](./img/49e4a288-15a1-4010-880b-77a14ce8fc41.jpg)
-![fan_80mm-1.jpg](./img/fan_80mm-1.jpg)
-![fan_80mm-2.jpg](./img/fan_80mm-2.jpg)
-![fan_80mm-3.jpg](./img/fan_80mm-3.jpg)
 ![IMG20241206165847.jpg](./img/IMG20241206165847.jpg)
 ![IMG20241210110518.jpg](./img/IMG20241210110518.jpg)
-![fan_80mm-4.jpg](./img/fan_80mm-4.jpg)
-![fan_80mm-5.jpg](./img/fan_80mm-5.jpg)
-![fan_80mm-6.jpg](./img/fan_80mm-6.jpg)
-![fan_80mm-7.jpg](./img/fan_80mm-7.jpg)
 ![IMG20241209214321.jpg](./img/IMG20241209214321.jpg)
 ![IMG20241210092721.jpg](./img/IMG20241210092721.jpg)
-![fan_80mm-8.jpg](./img/fan_80mm-8.jpg)
 ![IMG20241210092722.jpg](./img/IMG20241210092722.jpg)
 ![IMG20241210111948.jpg](./img/IMG20241210111948.jpg)
 ![IMG20241210092724.jpg](./img/IMG20241210092724.jpg)
