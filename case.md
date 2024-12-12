@@ -14,7 +14,7 @@ A case for the ASRock Rack Ampere ALTRAD8UD-1L2T
   * [Power Supply](#power-supply)
 * [Modifications](#modifications)
   * [Backplate](#backplate)
-  * [5.25 Drive Bay](#5.25-drive-bay)
+  * [5.25 Drive Bay](#525-drive-bay)
 
 ## PC Speaker
 
