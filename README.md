@@ -12,7 +12,7 @@ An opinionated ASRock Rack Ampere ALTRAD8UD-1L2T build
   * [NVME](nvme.md)
   * [Sata Storage](sata-storage.md)
     * [Storage Cables](storage.md#storage-cables)
-    * [Sata HBA](#sata-storage.md#sata-hba)
+    * [Sata HBA](sata-storage.md#sata-hba)
     * [Sata Drives](sata_hotswap.md#sata-drives)
     * [Sata Hotswap Enclosure](sata_hotswap.md#sata-hostswap-enclosure)
   * [case](case.md)
