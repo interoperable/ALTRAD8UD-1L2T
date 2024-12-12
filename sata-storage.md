@@ -7,7 +7,7 @@
  * [NVME](nvme.md)
  * [Sata Drives](sata_hotswap.md#sata-drives)
  * [Sata Hotswap Enclosure](sata_hotswap.md#sata-hostswap-enclosure)
-* [Sata HBA](#)sata-hba
+* [Sata HBA](#sata-hba)
 * [Storage Cables](#storage-cables)
 * [Installation](#installation)
 
