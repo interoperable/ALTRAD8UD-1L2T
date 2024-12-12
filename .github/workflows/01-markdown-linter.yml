@@ -10,22 +10,16 @@ on: push
 #    - uses: gaurav-nelson/github-action-markdown-link-check@v1
 
 jobs:
-  check-links:
+  markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gaurav-nelson/github-action-markdown-link-check@a996638015fbc9ef96beef1a41bbad7df8e06154
-        # checks all markdown files from /docs including all subfolders
+      - uses: actions/checkout@v3
+      - uses: technote-space/get-diff-action@v6
         with:
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'yes'
-          config-file: '.github/workflows/markdown.links.config.json'
-          folder-path: 'docs/'
-      - uses: actions/checkout@v4
-      - uses: gaurav-nelson/github-action-markdown-link-check@a996638015fbc9ef96beef1a41bbad7df8e06154
-        # checks all markdown files from root but ignores subfolders
+          PATTERNS: |
+            **/**.md
+      - uses: creachadair/github-action-markdown-link-check@master
         with:
-          use-quiet-mode: 'yes'
-          use-verbose-mode: 'yes'
-          config-file: '.github/workflows/markdown.links.config.json'
-          max-depth: 0
+          check-modified-files-only: 'yes'
+          config-file: '.md-link-check.json'
+        if: env.GIT_DIFF
