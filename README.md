@@ -2,6 +2,8 @@
 
 # ASRock Rack Ampere ALTRAD8UD-1L2T
 
+The following contains the information and choices I made while building my ASRock Rack Ampere Platform.
+
 ## Table of Contents
 * [References](references.md)
 * [Purchased Parts List](parts.md)
