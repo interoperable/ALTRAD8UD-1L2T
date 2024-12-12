@@ -5,8 +5,8 @@
 ## Table of Contents
   * [Parts Used](#parts-used)
   * [RAM Placement](#ram-placement)
-    * [Installation of Memory Modules](installation-of-memory-modules)
-    * [Recommended Memory Configurations](recommended-memory-configurations)
+    * [Installation of Memory Modules](#installation-of-memory-modules)
+    * [Recommended Memory Configurations](#recommended-memory-configurations)
   * [Installation](#installation)
 
 ## Parts Used
