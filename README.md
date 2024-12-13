@@ -23,5 +23,6 @@ An opinionated ASRock Rack Ampere ALTRAD8UD-1L2T build
     * [120mm Fans](case.md#120mm-fans)
     * [Power Supply](case.md#power-supply)
   * [80mm Fans](80mm-fans.md)
+  * [120mm Fans](120mm-fans.md)
   * [Network](network.md)
   * [GPU](gpu.md)
