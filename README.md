@@ -20,7 +20,7 @@ An opinionated ASRock Rack Ampere ALTRAD8UD-1L2T build
   * [USB Ports](usb-ports.md)
   * [RS323 Ports](rs232.md)
   * [Power and Cooling](case.md#power-and-cooling)
-    * [Power Supply](case.md#power-supply)
+  * [Power Supply](power.md)
   * [80mm Fans](80mm-fans.md)
   * [120mm Fans](120mm-fans.md)
   * [Network](network.md)
