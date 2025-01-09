@@ -29,4 +29,3 @@ A power supply for the ASRock Rack Ampere ALTRAD8UD-1L2T
 * ![bracket-5.jpg](./img/bracket-5.jpg)
 * ![bracket-6.jpg](./img/bracket-6.jpg)
 * ![bracket-7.jpg](./img/bracket-7.jpg)
-* ![bracket-8.jpg](./img/bracket-8.jpg)
