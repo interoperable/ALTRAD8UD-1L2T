@@ -6,7 +6,7 @@
 * [Network](#network)
 
 ## Network
-![MCX4121A-XCAT Mellanox ConnectX-4 Lx 25Gbe PCIe 3.0 SFP28 Dual-Port Network Card](https://www.newegg.com/p/14U-005H-001A1)
+![MCX4121A-XCAT Mellanox ConnectX-4 Lx 25Gbe PCIe 3.0 SFP28 Dual-Port Network Card](https://newegg.com/p/14U-005H-001A1)
 
 * ![nic-1.jpg](./img/nic-1.jpg)
 * ![nic-2.jpg](./img/nic-2.jpg)
