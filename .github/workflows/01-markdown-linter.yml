@@ -21,3 +21,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: JustinBeckwith/linkinator-action@v1.11.0
+        with:
+          markdown: true
+          linksToSkip: "https://www.newegg.com/p/14U-005H-001A1, https://www.newegg.com/micron-64gb-288-pin-ddr4-sdram/p/1FR-009G-00004, https://newegg.com/p/14U-005H-001A1, https://www.asrockrack.com/support/CPUCooler/ALTRAD8UD-1L2T.pdf"
