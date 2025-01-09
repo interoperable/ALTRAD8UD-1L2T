@@ -4,6 +4,10 @@
 
 An opinionated ASRock Rack Ampere ALTRAD8UD-1L2T build
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/:user/:repo/:workflow)
+
+
+
 
 ## Table of Contents
 * [References](references.md)
