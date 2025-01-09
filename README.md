@@ -17,7 +17,7 @@ An opinionated ASRock Rack Ampere ALTRAD8UD-1L2T build
     * [Sata Hotswap Enclosure](sata_hotswap.md#sata-hostswap-enclosure)
   * [case](case.md)
   * [PC Speaker](pc-speaker.md)
-  * [USB Ports](usb-ports.md)
+  * [USB Ports](usb.md)
   * [RS323 Ports](rs232.md)
   * [Power and Cooling](case.md#power-and-cooling)
   * [Power Supply](power.md)
