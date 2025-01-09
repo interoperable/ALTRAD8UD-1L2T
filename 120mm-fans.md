@@ -30,3 +30,5 @@
   * ![fan120mm-16.jpg](./img/fan120mm-16.jpg)
   * ![fan120mm-17.jpg](./img/fan120mm-17.jpg)
   * ![fan120mm-18.jpg](./img/fan120mm-18.jpg)
+  * ![fan_cable-1.jpg](./img/fan_cable-1.jpg)
+  * ![fan_cable-2.jpg](./img/fan_cable-2.jpg)
