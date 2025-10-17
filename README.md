@@ -5,7 +5,7 @@
 An opinionated ASRock Rack Ampere ALTRAD8UD-1L2T build
 
 [![Source Code](https://img.shields.io/badge/source-GitHub-blue.svg?style=flat)](https://github.com/interoperable/ALTRAD8UD-1L2T)
-![01_markdown linter workflow](https://github.com/interoperable/ALTRAD8UD-1L2T/actions/workflows/01-markdown-linter.yml/badge.svg?label=build&style=flat-square&branch=main)
+![01_Check Markdown Links workflow](https://github.com/interoperable/ALTRAD8UD-1L2T/actions/workflows/01_Check_Markdown_links.yml/badge.svg?label=build&style=flat-square&branch=main)
 [![Latest version](https://img.shields.io/github/tag/interoperable/ALTRAD8UD-1L2T.svg?label=release&style=flat&maxAge=3600)](https://github.com/interoperable/ALTRAD8UD-1L2T/tags)
 [![GitHub issues](https://img.shields.io/github/issues/interoperable/ALTRAD8UD-1L2T.svg)](https://github.com/interoperable/dockerfile-interopbot/issues)
 ![GitHub License](https://img.shields.io/github/license/interoperable/ALTRAD8UD-1L2T)
